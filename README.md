@@ -1,1 +1,1 @@
-# modsen-git-course
+# Ivan Yakovets, 5 group , tasks by the course
